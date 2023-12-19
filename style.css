@@ -468,3 +468,8 @@ width: 280px;
     border-radius:3rem 0 0 0;
     }
 }
+.i{
+padding-top: 3px;}
+.i:hover{
+    color:var(--main-color)
+}
